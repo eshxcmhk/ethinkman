@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://61.139.77.171:8080/vehicleware/ios/Vehicleware.ipa</string>
+					<string>http://sun.96515.cc:8080/vehicleware/ios/Vehicleware.ipa</string>
 				</dict>
     				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.qs.vehicleware</string>
 				<key>bundle-version</key>
-				<string>2.7</string>
+				<string>2.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
