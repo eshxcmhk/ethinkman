@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.6.196.131:8080/vehicleware/ios/Vehicleware.ipa</string>
+					<string>http://218.6.196.133:8080/bustest/bustest.ipa</string>
 				</dict>
     				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://218.6.196.131:8080/vehicleware/ios/vehicleware.png</string>
+					<string>http://218.6.196.133:8080/vehicleware/ios/vehicleware.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://218.6.196.131:8080/vehicleware/ios/vehicleware.png</string>
+					<string>http://218.6.196.133:8080/vehicleware/ios/vehicleware.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.qs.vehicleware</string>
+				<string>com.docyp.BusQuery</string>
 				<key>bundle-version</key>
-				<string>2.9</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>公车用车管理系统</string>
+				<string>报站测试</string>
 			</dict>
 		</dict>
 	</array>
