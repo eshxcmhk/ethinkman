@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://sun.96515.cc:8080/vehicleware/ios/chattest.png</string>
+					<string>http://sun.96515.cc:8080/chattest/ios/chattest.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://sun.96515.cc:8080/vehicleware/ios/chattest.png</string>
+					<string>http://sun.96515.cc:8080/chattest/ios/chattest.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
